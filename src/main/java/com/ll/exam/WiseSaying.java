@@ -12,6 +12,7 @@ public class WiseSaying {
         this.author = author;
     }
 
+
     @Override
     public String toString() {
         return "WiseSaying{" +
